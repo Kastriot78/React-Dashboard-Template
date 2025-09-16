@@ -1,12 +1,30 @@
-# React + Vite
+# React Dashboard Template with Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a sleek and responsive dashboard template built with React and styled using Tailwind CSS. It offers a range of features, including an eCommerce overview, analytics, user profiles, task management, and more. The design is modern and intuitive, making it easy to navigate between sections.
 
-Currently, two official plugins are available:
+## Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Ecommerce Overview:** A dashboard to track and display eCommerce data.
+- **Analytics:** Visualize key metrics and trends.
+- **User Profile:** Manage and update personal information.
+- **Task List:** Organize and keep track of tasks with a simple to-do list.  
+  The task list includes a **drag-and-drop** feature, allowing you to easily reorder tasks. 
+- **Tables:** Includes both basic and data tables to manage and display information.
+- **Inbox:** A clean, Gmail-like email interface for managing messages and communications.
+- **Pie Chart:** Easily visualize data with interactive charts.
 
-## Expanding the ESLint configuration
+This template is perfect for anyone looking to build a modern admin dashboard with React. It's designed to be fully responsive and customizable to fit different use cases.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+
+1. Clone the repository:  
+   `git clone https://github.com/Kastriot78/React-Dashboard-Template.git`
+
+2. Navigate to the project directory:  
+   `cd React-Dashboard-Template`
+
+3. Install dependencies:  
+   `npm install`
+
+4. Start the development server:  
+   `npm run dev`
